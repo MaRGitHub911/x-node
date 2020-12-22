@@ -1,4 +1,4 @@
 # x-node
 v1.0
-Please Sponsor and Commit 
+Please Sponsor 
 S.230
